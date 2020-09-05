@@ -1,5 +1,5 @@
 // ciko
-class Example{
+class Print{
     public static void main(final String[] args) {
     
         printWhateverEmmreSays(args[0]);
